@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and vuejs
 -->
 - 🔭 I’m currently a student
-- 🌱 I’m currently learning python and vuejs
+- 🌱 I’m currently learning blockchain and reactjs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev)](https://github.com/superXdev/github-readme-stats)
 
