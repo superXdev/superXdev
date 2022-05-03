@@ -1,19 +1,35 @@
-### Hi there 👋
+### Hi there, I'm [Fikri Rudiansyah!](https://fikri.vercel.app/) 👋
 
-<!--
-**superXdev/superXdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/fikri-rudiansyah-700b171b6/" title="Connect to me">
+  <img align="left" alt="Fikri Rudiansyah | LinkedIn" width="20px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/FRDBlock" title="Follow me">
+  <img align="left" alt="Fikri Rudiansyah | Twitter" width="20px" src="./assets/twitter.svg" />
+</a>
+<a href="mailto:rohmadsasmito@gmail.com" title="Send email to me">
+  <img align="left" alt="Fikri Rudiansyah | Mail" width="20px" src="./assets/email.svg" />
+</a>
+<br>
 
-Here are some ideas to get you started:
+I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
 
-- 🔭 I’m currently student
-- 🌱 I’m currently learning python and vuejs
--->
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning blockchain and reactjs
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev)](https://github.com/superXdev/github-readme-stats)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superXdev)](https://github.com/anuraghazra/github-readme-stats)
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev)](https://github.com/superXdev/github-readme-stats)
 
