@@ -6,7 +6,7 @@
 <a href="https://twitter.com/FRDBlock" title="Follow me">
   <img align="left" alt="Fikri Rudiansyah | Twitter" width="20px" src="./assets/twitter.svg" />
 </a>
-<a href="mailto:rohmadsasmito@gmail.com" title="Send email to me">
+<a href="mailto:fikrizhanking@gmail.com" title="Send email to me">
   <img align="left" alt="Fikri Rudiansyah | Mail" width="20px" src="./assets/email.svg" />
 </a>
 <br/>
