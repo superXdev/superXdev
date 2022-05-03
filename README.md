@@ -20,18 +20,20 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superXdev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
