@@ -14,7 +14,7 @@
 
 I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev)](https://github.com/superXdev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=vue-dark)](https://github.com/superXdev/github-readme-stats)
 
 **Languages and Tools:**
 
@@ -29,7 +29,7 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superXdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superXdev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
 
