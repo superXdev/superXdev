@@ -9,7 +9,8 @@
 <a href="mailto:rohmadsasmito@gmail.com" title="Send email to me">
   <img align="left" alt="Fikri Rudiansyah | Mail" width="20px" src="./assets/email.svg" />
 </a>
-<br>
+<br/>
+<br/>
 
 I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
 
