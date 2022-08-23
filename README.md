@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/vinz.an.121" title="Connect to me">
   <img align="left" alt="Fikri Rudiansyah | Facebook" width="24px" src="./assets/fb_icon-icons.com_66689.svg" />
 </a>
-<a href="https://www.hackerrank.com/fikrizhanking" title="Follow me">
+<a href="https://www.hackerrank.com/fikrizhanking" title="Hackerrank">
   <img align="left" alt="Fikri Rudiansyah | Twitter" width="25px" src="./assets/HackerRank_logo.png" />
 </a>
 <a href="https://twitter.com/FRDBlock" title="Follow me">
