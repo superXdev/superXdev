@@ -4,10 +4,10 @@
   <img align="left" alt="Fikri Rudiansyah | LinkedIn" width="20px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/vinz.an.121" title="Connect to me">
-  <img align="left" alt="Fikri Rudiansyah | Facebook" width="24px" src="./assets/fb_icon-icons.com_66689.svg" />
+  <img align="left" alt="Fikri Rudiansyah | Facebook" width="23px" src="./assets/fb_icon-icons.com_66689.svg" />
 </a>
 <a href="https://www.hackerrank.com/fikrizhanking" title="Hackerrank">
-  <img align="left" alt="Fikri Rudiansyah | Twitter" width="25px" src="./assets/HackerRank_logo.png" />
+  <img align="left" alt="Fikri Rudiansyah | Twitter" width="19px" src="./assets/HackerRank_logo.png" />
 </a>
 <a href="https://twitter.com/FRDBlock" title="Follow me">
   <img align="left" alt="Fikri Rudiansyah | Twitter" width="20px" src="./assets/twitter.svg" />
