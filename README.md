@@ -41,4 +41,7 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://komarev.com/ghpvc/?username=superXdev)
