@@ -42,6 +42,15 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript       2 hrs 33 mins   ████████████████▒░░░░░░░░   65.92 %
+PHP              1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   31.24 %
+Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=superXdev)
