@@ -40,7 +40,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png"></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
