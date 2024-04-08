@@ -25,11 +25,11 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 54 mins   ██████████████░░░░░░░░░░░   55.43 %
-PHP          3 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-CSS          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Bash         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript   6 hrs 9 mins    ██████████████████░░░░░░░   71.98 %
+PHP          1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+CSS          55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
