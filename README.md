@@ -20,19 +20,9 @@
 
 I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
 
-[![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=buefy)](https://github.com/superXdev/github-readme-stats)
+[![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=ayu-mirage)](https://github.com/superXdev/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   10 hrs 59 mins  ██████████████████████░░░   88.41 %
-Prisma       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-PHP          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Rust         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-```
-
-<!--END_SECTION:waka-->
+[![superXdev Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=superxdev&theme=ayu-mirage&layout=compact)](https://github.com/superXdev/github-readme-stats)
 
 **Languages and Tools:**
 
