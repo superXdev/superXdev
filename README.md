@@ -29,7 +29,7 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png"></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
