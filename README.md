@@ -42,6 +42,7 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
 ![](https://komarev.com/ghpvc/?username=superXdev)
