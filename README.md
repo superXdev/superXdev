@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
+I’m a passionate blockchain and full-stack developer on a mission to build impactful software solutions.
 
 [![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=ayu-mirage)](https://github.com/superXdev/github-readme-stats)
 
