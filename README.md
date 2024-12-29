@@ -32,17 +32,13 @@ I’m a passionate blockchain and full-stack developer on a mission to build imp
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
 ![](https://komarev.com/ghpvc/?username=superXdev)
