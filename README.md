@@ -36,7 +36,7 @@ I’m a passionate blockchain and full-stack developer on a mission to build imp
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
