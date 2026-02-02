@@ -20,10 +20,6 @@
 
 I’m a passionate blockchain and full-stack developer on a mission to build impactful software solutions.
 
-[![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=ayu-mirage)](https://github.com/superXdev/github-readme-stats)
-
-[![superXdev Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=superxdev&theme=ayu-mirage&layout=compact)](https://github.com/superXdev/github-readme-stats)
-
 **Languages and Tools:**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
